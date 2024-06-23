@@ -1,2 +1,1 @@
-# atlas-softy-pinko-docker
-Making a docker
+Docker - Atlas Softy Pinko Docker
